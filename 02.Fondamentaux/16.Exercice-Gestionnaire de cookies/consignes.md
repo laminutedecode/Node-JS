@@ -1,2 +1,0 @@
-Consigne :
-Créez un serveur HTTP simple en utilisant Node.js. Ce serveur devrait être capable de gérer les cookies. Lorsqu'un utilisateur visite la page, le serveur doit vérifier s'il a un cookie contenant un compteur. Si le cookie n'existe pas, le serveur doit initialiser le compteur à 1. Si le cookie existe déjà, le serveur doit incrémenter le compteur et renvoyer une réponse au client avec le nouveau compteur. Le serveur doit également mettre à jour le cookie sur le client avec le nouveau compteur.
